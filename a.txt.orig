@@ -1,0 +1,6 @@
+This is my first line
+<<<<<<< HEAD
+This line added by  b develper
+=======
+This line added by a bb devloper
+>>>>>>> 454437caa470b8cc8a677c7818601261b2e89098
